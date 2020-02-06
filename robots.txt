@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sitogoobe.assistment.ru/sitemap.xml
